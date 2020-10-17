@@ -1,0 +1,33 @@
+.photo {
+  width: 150px;
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Calibri';
+  color: white;
+  background-color: red;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  /* background-color: rgba(0, 0, 0, 0.5); */
+}
+
+p {
+  font-size: 12pt;
+  line-height: 150%;
+  padding: 10px;
+  background-color: rgba(242, 242, 242, 0.8);
+  width: 650px;
+  text-align: center;
+  margin: auto;
+}
