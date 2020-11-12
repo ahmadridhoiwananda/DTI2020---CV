@@ -1,4 +1,4 @@
-export { default as aboutPage } from './aboutPage';
-export { default as educationPage } from './educationPage';
-export { default as experiencePage } from './experiencePage';
-export { default as contactPage } from './contactPage';
+export { default as AboutPage } from './AboutPage';
+export { default as EducationPage } from './EducationPage';
+export { default as ExperiencePage } from './ExperiencePage';
+export { default as ContactPage } from './ContactPage';

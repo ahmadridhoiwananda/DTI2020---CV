@@ -1,34 +1,34 @@
 import {
-  aboutPage,
-  educationPage,
-  experiencePage,
-  contactPage,
+  AboutPage,
+  EducationPage,
+  ExperiencePage,
+  ContactPage,
 } from '../component/pages/index';
 
 const routes = [
   {
     path: '/about',
-    component: aboutPage,
+    component: AboutPage,
     isPublic: true,
   },
   {
     path: '/education',
-    component: educationPage,
+    component: EducationPage,
     isPublic: true,
   },
   {
     path: '/experience',
-    component: experiencePage,
+    component: ExperiencePage,
     isPublic: true,
   },
   {
     path: '/contact',
-    component: contactPage,
+    component: ContactPage,
     isPublic: true,
   },
   {
     path: '/',
-    component: aboutPage,
+    component: AboutPage,
     isPublic: true,
   },
 ];

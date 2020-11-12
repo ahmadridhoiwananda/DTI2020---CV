@@ -1,7 +1,7 @@
 import React from 'react';
 import Experience from '../Experience';
 
-const experiencePage = () => {
+const ExperiencePage = () => {
   return (
     <>
       <Experience />
@@ -9,4 +9,4 @@ const experiencePage = () => {
   );
 };
 
-export default experiencePage;
+export default ExperiencePage;
